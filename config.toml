@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://celularesbaratos.online"
 languageCode = "pt-BR"
 title = "Celulares Baratos Online"
 theme = "hugo-shopping-product-catalogue-simple"
