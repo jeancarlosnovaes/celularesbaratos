@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "pt-BR"
+title = "Celulares Baratos Online"
+theme = "hugo-shopping-product-catalogue-simple"
